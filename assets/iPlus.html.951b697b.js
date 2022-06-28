@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-e694658e","path":"/jailbreak/iPlus.html","title":"iPlus","lang":"en-US","frontmatter":{"title":"iPlus","description":"Compatible devices and software versions for iPlus","chartType":"jailbreak","jailbreak":{"name":"iPlus","alias":"i+","info":{"type":"Untethered","firmwares":["1.1.4"]},"compatibility":[{"firmwares":["4A102"],"devices":["iPhone1,1"]}]},"redirect_from":["/jailbreak/.html"],"sidebar":false,"editLink":false,"lastUpdated":false,"contributors":false},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');
+export { data };
